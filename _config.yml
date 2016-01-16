@@ -1,0 +1,17 @@
+# Site settings
+title: Picky
+header-img: img/splash_image_foodshot.jpeg
+email: your-email@yourdomain.com
+description: "For people with a discerning palate. Tips for making and finding good food with dietary restrictions: VEGAN, GLUTEN FREE, VEGETARIAN, RAW, PALEO"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
