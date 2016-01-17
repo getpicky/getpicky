@@ -5,10 +5,27 @@ subtitle:   "Make this super simple recipe in 30 minutes"
 date:       2016-01-08 12:00:00
 author:     "Picky Laurel "
 header-img: "img/DSCF2237.jpg"
+tags:
+ - baking
 ---
 
-Granola is the easiest thing in the world to make—seriously! I bought a big bag of Gluten Free oats from good ol' @bobsredmill Then sprinkled 3 cups of oats onto a foil lined baking sheet with some pumpkin seeds aka pepitas, coconut oil spray, pumpkin pie spice (which is a blend of cinnamon, nutmeg, ginger and clove), a little honey drizzle (or agave if your vegan) and cooked at 275º for about 30ish mins/turning 2x. I added dried cranberries after the granola cooled. You can top acai bowls with your homemade granola or you can sprinkle over yogurt for a protein rich breakfast. This is healthy eating and comfortfood at it's finest, perfect for my Celiac friends looking to save$ 
+*Granola* is the easiest thing in the world to make—seriously! I bought a big bag of Gluten Free oats from good ol' Bob's Redmill. Then sprinkled 3 cups of oats onto a foil lined baking sheet with some pumpkin seeds aka pepitas, coconut oil spray, pumpkin pie spice (which is a blend of cinnamon, nutmeg, ginger and clove), a little honey drizzle (or agave if your vegan) and cooked at 275º for about 30ish mins/turning 2x. I added dried cranberries after the granola cooled. 
 
-WARNING: Not all oats are Gluten Free so make sure to read the label closely. Also lots of grocery stores are mixing GF baking goods with regular goods so be extra careful.  Bobs Red Mill has the finest GF drygoods and it's carried in most major supermarkets and of course sold on the interwebs. #yum
+<!-- <div class="img-thumbnail" alt="GraNola" style= "width: 200px; height: 200px">
+	<img class="" src="{{ site.baseurl }}/img/DSCF2243.jpg" />
+</div> -->
 
-![Granola Porn]({{ picky.tips/2016/01/08/granola/ }}/img/DSCF2251copy.jpg)
+
+You can top acai bowls with your homemade granola or you can sprinkle over yogurt for a protein rich breakfast. This is healthy eating and comfortfood at it's finest, perfect for my Celiac friends looking to save$ 
+
+
+**Warning:** Not all oats are Gluten Free so make sure to read the label closely. Also lots of grocery stores are mixing GF baking goods with regular goods so be extra careful.  Bobs Red Mill has the finest GF drygoods and it's carried in most major supermarkets and of course sold on the interwebs. #yum
+
+
+
+<div class="row">
+	<img class= "img-responsive" class="img-thumbnail" src="{{ site.baseurl }}/img/DSCF2251copy.jpg" />
+	<!-- <img class= "col-sm-6 col-md-6 col-lg-6" src="{{ site.baseurl }}/img/DSCF2243.jpg" /> -->
+</div>
+
+<!-- ![Granola Porn]({{ picky.tips/2016/01/08/granola/ }}/img/DSCF2251copy.jpg) -->

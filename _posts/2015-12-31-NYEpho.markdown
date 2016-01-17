@@ -5,6 +5,8 @@ subtitle:   "A traditional Vietnamese Soup to cleanse and restore"
 date:       2015-12-31 12:00:00
 author:     "Picky Laurel"
 header-img: "img/pho.JPG"
+tags:
+ - entree
 ---
 
 Pho is one of those dishes I go to when I'm in need of comfort. I usually grab a bowl when I'm run down and have the sniffles. The broth is restorative and cleansing especially with a little hot sauce thrown in.
