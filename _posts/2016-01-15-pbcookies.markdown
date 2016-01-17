@@ -23,12 +23,12 @@ I'm always looking for good snacks to take with me on adventures (cycling especi
  - pinch of table salt 
  - 1 tsp pumpkin pie spice 
  - 1/3 cup coconut sugar 
- - 2 Tbs Peanut Butter smooth 
- - 3 Tbs Agave 
- - 1/4 Cup almond milk 
+ - 2 Tbs smooth peanut butter  
+ - 3 Tbs agave 
+ - 1/4 cup almond milk 
  - 2 eggs 
  - 1 tsp vanilla 
- - flake Salt for top of cookie 
+ - flake salt for top of cookie 
  - dry roasted peanuts
 
  **Directions**
