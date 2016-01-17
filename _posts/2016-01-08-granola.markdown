@@ -9,7 +9,7 @@ tags:
  - baking
 ---
 
-*Granola* is the easiest thing in the world to make—seriously! I bought a big bag of Gluten Free oats from good ol' Bob's Redmill. Then sprinkled 3 cups of oats onto a foil lined baking sheet with some pumpkin seeds aka pepitas, coconut oil spray, pumpkin pie spice (which is a blend of cinnamon, nutmeg, ginger and clove), a little honey drizzle (or agave if your vegan) and cooked at 275º for about 30ish mins/turning 2x. I added dried cranberries after the granola cooled. 
+*Granola* is the easiest thing in the world to make—seriously! I bought a big bag of gluten-free oats from good ol' Bob's Redmill. Then sprinkled 3 cups of oats onto a foil lined baking sheet with some pumpkin seeds aka pepitas, coconut oil spray, pumpkin pie spice (which is a blend of cinnamon, nutmeg, ginger and clove), a little honey drizzle (or agave if your vegan) and cooked at 275º for about 30ish mins/turning 2x. I added dried cranberries after the granola cooled. 
 
 <!-- <div class="img-thumbnail" alt="GraNola" style= "width: 200px; height: 200px">
 	<img class="" src="{{ site.baseurl }}/img/DSCF2243.jpg" />
@@ -19,7 +19,7 @@ tags:
 You can top acai bowls with your homemade granola or you can sprinkle over yogurt for a protein rich breakfast. This is healthy eating and comfortfood at it's finest, perfect for my Celiac friends looking to save$ 
 
 
-**Warning:** Not all oats are Gluten Free so make sure to read the label closely. Also lots of grocery stores are mixing GF baking goods with regular goods so be extra careful.  Bobs Red Mill has the finest GF drygoods and it's carried in most major supermarkets and of course sold on the interwebs. #yum
+**Warning:** Not all oats are gluten-free so make sure to read the label closely. Also lots of grocery stores are mixing GF baking goods with regular goods so be extra careful.  Bobs Red Mill has the finest GF drygoods and it's carried in most major supermarkets and of course sold on the interwebs. #yum
 
 
 
