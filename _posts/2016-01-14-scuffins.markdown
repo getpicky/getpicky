@@ -33,4 +33,9 @@ A hybrid between a scone and a muffin—a scuffin? The result of my latest bakin
  
  Mix dry and wet ingredients separately and then mix together. fold in the frozen blueberries. spoon into paper cups. bake at 300º for 45 minutes (give or take) cooking times may vary because the #psyllium absorbs lots of moisture and takes a while to cook through. lower temps for longer helps, but keep a close eye on them.
 
-![Muffin Top]({{ picky.tips/2016/01/14/scuffones/ }}/img/DSCF2551_crop_logo.jpg)
+<div class="row">
+	<img class="img-thumbnail" src="{{ site.baseurl }}/img/DSCF2551_crop_logo.jpg" alt ="Muffin Tops"  style= "width: 400px"/>
+</div>
+
+
+
