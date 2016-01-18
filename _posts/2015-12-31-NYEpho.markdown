@@ -1,15 +1,20 @@
 ---
-layout:     post
+layout:     recipe
 title:      "Gluten Free Pho at Home"
 subtitle:   "A traditional Vietnamese Soup to cleanse and restore"
 date:       2015-12-31 12:00:00
 author:     "Picky Laurel"
 header-img: "img/pho.JPG"
 tags:
- - entree
+ - Entrée
+recipe_type: "Gluten-free & Vegan"
+servings: 4
+cook_time: 35 min
+sidebar_image: "DSCF2606_crop.jpg"
+
 ---
 
-Pho is one of those dishes I go to when I'm in need of comfort. I usually grab a bowl when I'm run down and have the sniffles. The broth is restorative and cleansing especially with a little hot sauce thrown in.
+Pho is one of those dishes I go to when I'm in need of comfort. I usually grab a bowl when I'm run down and have the sniffles. The broth is restorative and cleansing especially with a little hot sauce.
 
 I was inspired by Pho Cafe, our local vietnamese restaurant that serves up big steaming bowls of soup. One might think that all Pho is Gluten Free considering it's just rice noodles, however we must be careful because many restaurants will add soy sauce or MSG to the broth. Fortunately Pho Cafe assures me they do not add these items to the broth and it's completely safe.
 
@@ -18,7 +23,7 @@ Inspired by Pho Cafe, I went on the hunt for a good gluten free Pho recipe that 
 
 ### Super Fast Pho at Home
 
-**Ingredients**
+#### Ingredients
 
 - ½ pound rice noodles
 - 4 gluten free vegetarian chicken bouillon cubes
@@ -32,14 +37,10 @@ Inspired by Pho Cafe, I went on the hunt for a good gluten free Pho recipe that 
 - 2 cups shredded cooked chicken (omit for vegan or vegetarian)
 
 
-**Directions**
+#### Directions
 
 Soak the noodles in very warm water until softened, about 10 minutes.
 
 Dissolve the bouillon cubes in 5 cups boiling water. Add half of the sliced green onions and season to taste with more salt and pepper if needed.
 
 Once the noodles are softened, drain them, put into a strainer set in a large bowl and fill the bowl with boiling water. Let sit for 5 seconds, drain and divide the noodles among 4 large soup bowls. Divide the hot broth among the 4 bowls of noodles. Serve immediately with all the additional ingredients on the side. Let each diner design their pho the way they want.
-
-**Servings**
-
-A gluten free recipe that makes 4 big bowls of magically restorative noodle soup.

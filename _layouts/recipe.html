@@ -1,0 +1,31 @@
+---
+layout: post
+---
+<div class="recipe">
+<div class="row">
+<div class="recipe-sidebar col-sm-4 col-md-4 col-lg-4">
+	<!-- <h4 class="recipe-info">Recipe Info</h4> -->
+	<table class="table-condensed small">
+	  <tr>
+	    <td><small>Type:</small></td>
+	    <td><small>{{ page.recipe_type }}</small></td>
+	  </tr>
+	  <tr>
+	    <td><small>Servings:</small></td>
+	    <td><small>{{ page.servings }}</small></td>
+	  </tr>
+	  <tr>
+	    <td><small>Cook Time:</small></td>
+	    <td><small>{{ page.cook_time }}</small></td>
+	  </tr>
+	</table>
+	{% if page.sidebar_image %}
+		<img src="{{ site.baseurl }}/img/posts/{{page.sidebar_image}}"/>
+	{% endif %}
+
+</div>
+<div class="recipe-content col-sm-8 col-md-8 col-lg-8">
+	{{ content }}
+</div>
+</div>
+</div>
