@@ -11,10 +11,10 @@ header-img: "img/ES1JJ1RI3I.jpg"
 	<h2 class="tag-title">{{ tag[0] | capitalize }}</h2>
 	<ul class="tag-list list-unstyled">
 	{% for post in tag[1] %}
-		<li>
-			<img class="img-thumbnail" src="{{ site.baseurl }}/{{ post.header-img }}" />
-			<a href="{{post.url}}">{{post.title}}</a>
-		</li>
+		<a href="{{ post.url | prepend: site.baseurl }}">
+				<img class="post-thumbnail" src="{{site.baseurl}}/{{post.header-img}}" />
+				<h4 class="post-title">{{ post.title }}</h4>
+		</a>
 	{% endfor %}
 	</ul>
 </div>

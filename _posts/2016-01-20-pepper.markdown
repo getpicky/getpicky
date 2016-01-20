@@ -1,0 +1,40 @@
+---
+layout: recipe
+title: "Vegan Stuffed Pepper"
+subtitle: "Mediterranean chickpeas, rice and spicy tomato stuffing"
+date: 2016-01-20 12:00:00
+author: "Picky Laurel"
+header-img: "img/posts/DSCF2778.jpg"
+tags:
+ - Entrée
+recipe_type: "Gluten-free, Vegan and Nut-free"
+servings: 4
+cook_time: 1 hour
+sidebar_image: "DSCF2798_crop.jpg"
+---
+A whole red bell pepper is a beautiful vessel for stuffing. And when roasted, the pepper permeates the inside ingredients with a flavorful sweet juice. For this recipe we chose to use chickpeas and rice for a hearty protein rich vegan dish. Hope you enjoy this recipe as much as I do!  
+
+### Vegan Mediterranean Stuffed Pepper  
+
+#### Ingredients
+
+ - 1 cup rice
+ - 1 can crushed tomatoes with juice
+ - juice of 1/2 lemon
+ - 1 tsp red pepper flakes  
+ - 1 can chickpeas
+ - 1 red onion
+ - 3 cloves of garlic
+ - 1/3 cup chopped fresh basil
+ - 1 tsp. cumin
+ - salt and pepper to taste
+ - 1/3 cup olive oil
+ - 4-6 red peppers (depending on size)
+
+#### Directions
+
+ Cook rice with juice from canned crushed tomatoes. In a large pan, sautée onion in a generous amount of olive oil then add chopped garlic, cumin, salt and pepper. Simmer together for about 2 mins and then add chickpeas and the crushed tomatoes. When rice is done, add to the pan. Mix together thoroughly. Slice the tops off the red peppers and scoop out the seeds. Stuff the rice mixture into the red peppers and place on a tin pan with olive oil brushed over outside of pepper. Cook for 40 minutes at 375º. Serve with fresh basil garnish.
+
+ <div class="row">
+ 	<img class="img-thumbnail" src="{{ site.baseurl }}/img/posts/DSCF2731.jpg" alt ="Stuffing"  style= "width: 100%"/>
+ </div>
