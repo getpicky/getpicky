@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Vegan Stuffed Pepper"
-subtitle: "Mediterranean chickpeas, rice and spicy tomato stuffing"
+subtitle: "Mediterranean stuffing: chickpeas, rice and spicy tomato"
 date: 2016-01-20 12:00:00
 author: "Picky Laurel"
 header-img: "img/posts/DSCF2778.jpg"
