@@ -26,6 +26,6 @@ Thanks for stopping by!
 
 _P.S. I’m not a medical professional so please talk with your doctor before doing anything crazy ;)_
 
-
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"ca18c7e1dbb150e3d2379e65e","lid":"000d7225ee"}) })</script>
 
 <img src="{{site.baseurl}}/img/meSquared.jpg" class="img-responsive center-block img-circle" alt="Picky Me" style= "width: 200px; height: 200px" >
