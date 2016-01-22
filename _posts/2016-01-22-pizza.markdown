@@ -12,17 +12,17 @@ servings: 4
 cook_time: 1.5 hours
 sidebar_image: "DSCF2881_crop.jpg"
 ---
-You can't turn a corner on the internet without seeing another beautiful Cauliflower pizza crust recipe. And for good reason! It's absolutely delicious. And it serves as a great base because it's super low in calories, fat, and carbs which leaves plenty of room to play with cheese on cheese!
+You can't turn a corner on the internet without seeing another beautiful cauliflower pizza crust recipe. And for good reason. It's absolutely delicious! Cauliflower serves as a fantastic "base" because it's super low in calories/carbs which leaves plenty of room to load up on the good stuff.
 
-I've adapted a couple recipes to create a crust that was a little heartier thanks to chickpea flour and with more flavor cause of additional dried herbs.
+I've adapted a couple recipes to create a crust that was a little heartier and more flavorful thanks to chickpea flour and dried herbs. I found this recipe to be labor intensive so carve out some time to grab a glass of wine and enjoy the process.
 
 ### Cauliflower Pizza  
 
 #### Crust Ingredients
 
- - 1 head of white cauliflower
+ - 1 head of white cauliflower chopped
  - 1/2 cup garbanzo bean flour
- - 1 Tbs Olive Oil
+ - 1 Tbs olive oil
  - 1 tsp garlic powder  
  - 1 tsp dried oregano
  - 1/2 tsp nutmeg
@@ -44,11 +44,11 @@ I've adapted a couple recipes to create a crust that was a little heartier thank
 
 #### Directions
 
-Chop cauliflower and place into a food processor a little bit at a time. Move the "riced" cauliflower which shoudl now be the consistency on quinoa into a large mixing bowl. Add garbanzo bean flour and mix. Add in garlic, oregano, salt, nutmeg and 2 eggs beaten. Mix ingredients together and lastly add freshly grated parmesan cheese.
+Chop cauliflower and place into a food processor a little bit at a time. Move the "riced" cauliflower which should now be the consistency on quinoa onto a clean kitchen towel. Over the sink, ring out the extra water from your cauliflower and place into large mixing bowl. Add garbanzo bean flour and mix. Add in garlic, oregano, salt, nutmeg and 2 eggs beaten. Mix ingredients together with freshly grated parmesan cheese.
 
-Place mixture onto an oiled cookie sheet and flatten to pizza crust height. Dust top of crust with a bit of olive oil. Bake for about 25 minutes at 300º or until edges become slightly brown.
+Place mixture onto an oiled cookie sheet and flatten to resemble a pizza crust (about 1/4" deep). Brush the crust with a bit of olive oil. Bake for about 25 minutes at 300º or until edges become slightly brown and crisp.
 
-Remove from oven and add toppings. Return to oven for another 15 minutes at 400º so the toppings become braised. Keep an eye on your pizza so it doesn't burn. Garnish with fresh basil and enjoy!
+Remove from the oven and add toppings. Return to oven for another 15 minutes at 425º so the toppings become braised. Keep an eye on your pizza so it doesn't burn. Garnish with fresh basil and bit more cheese. Enjoy!
 
  <div class="row">
  	<img class="img-thumbnail" src="{{ site.baseurl }}/img/posts/DSCF2822_crop.jpg" alt ="Stuffing"  style= "width: 100%"/>
