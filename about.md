@@ -17,7 +17,7 @@ I started to connect the dots about my illness and my picky eating years later w
 So it seems I still can't escape my "picky" label. But hey, maybe being picky is a good thing because it has enabled me to regain my strength and get back on track to a healthy life. For me, being picky is about about listening to my body and knowing what I need to thrive.
 
 
-I believe there's a real need for tools that help people find things they can eat safely. I created this site to keep track of restaurants (check out the [GF Map](http://picky.tips/map/)) and [recipes](http://picky.tips/recipes/) in the hope that it's useful to others who are similarly picky. Please send me [a note]((http://picky.tips/contact/)) if you have ideas for recipes or would like to collaborate.
+I believe there's a real need for tools that help people find things they can eat safely. I created this site to keep track of restaurants (check out the [GF Map](http://getpicky.co/map/)) and [recipes](http://getpicky.co/recipes/) in the hope that it's useful to others who are similarly picky. Please send me [a note](http://getpicky.co/contact/) if you have ideas for recipes or would like to collaborate.
 
 
 Thanks for stopping by!
