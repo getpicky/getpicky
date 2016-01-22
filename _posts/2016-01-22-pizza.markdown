@@ -1,0 +1,55 @@
+---
+layout: recipe
+title: "Cauliflower Pizza"
+subtitle: "Light vegetable-base crust with all your favorite toppings"
+date: 2016-01-22 12:00:00
+author: "Picky Laurel"
+header-img: "img/posts/DSCF2899.jpg"
+tags:
+ - Entrée
+recipe_type: "Gluten-free, Vegetarian and Nut-free"
+servings: 4
+cook_time: 1.5 hours
+sidebar_image: "DSCF2881_crop.jpg"
+---
+You can't turn a corner on the internet without seeing another beautiful Cauliflower pizza crust recipe. And for good reason! It's absolutely delicious. And it serves as a great base because it's super low in calories, fat, and carbs which leaves plenty of room to play with cheese on cheese!
+
+I've adapted a couple recipes to create a crust that was a little heartier thanks to chickpea flour and with more flavor cause of additional dried herbs.
+
+### Cauliflower Pizza  
+
+#### Crust Ingredients
+
+ - 1 head of white cauliflower
+ - 1/2 cup garbanzo bean flour
+ - 1 Tbs Olive Oil
+ - 1 tsp garlic powder  
+ - 1 tsp dried oregano
+ - 1/2 tsp nutmeg
+ - 1 tsp kosher salt
+ - 2 eggs
+ - 1/4 cup freshly grated (aged) parmesan cheese
+
+#### Toppings	 
+  - 1 cup mozzarella cheese
+  - 1/2 pkg. pepperoni
+  - 1/2 red onion sliced in rings
+  - 1/4 cup white mushrooms sliced
+  - 1/4 cup chopped fresh basil
+  - salt and pepper to taste
+  - red pepper flakes
+  - 1/4 cup olive oil
+  - 1 yellow bell peppers
+  - tomato sauce
+
+#### Directions
+
+Chop cauliflower and place into a food processor a little bit at a time. Move the "riced" cauliflower which shoudl now be the consistency on quinoa into a large mixing bowl. Add garbanzo bean flour and mix. Add in garlic, oregano, salt, nutmeg and 2 eggs beaten. Mix ingredients together and lastly add freshly grated parmesan cheese.
+
+Place mixture onto an oiled cookie sheet and flatten to pizza crust height. Dust top of crust with a bit of olive oil. Bake for about 25 minutes at 300º or until edges become slightly brown.
+
+Remove from oven and add toppings. Return to oven for another 15 minutes at 400º so the toppings become braised. Keep an eye on your pizza so it doesn't burn. Garnish with fresh basil and enjoy!
+
+ <div class="row">
+ 	<img class="img-thumbnail" src="{{ site.baseurl }}/img/posts/DSCF2822_crop.jpg" alt ="Stuffing"  style= "width: 100%"/>
+ </div>
