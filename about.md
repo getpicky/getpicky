@@ -5,7 +5,7 @@ description: "When I started to get Picky."
 header-img: "img/Restaurant_photo.jpeg"
 ---
 
-Early on I was labeled _Picky_ by flat-out refusing to eat certain foods that made me feel ugh, sick! But with the immense pressure to fit-in I forced myself to eat what was available: pasta, pizza, sandwiches and the like.
+Early on I was labeled _Picky_ by simply refusing to eat certain foods that made me feel ugh, sick! But with all the pressure to fit-in I slowly forced myself to eat what was available: pasta, pizza, sandwiches etc.
 
 
 In my early 20's I became very ill. The many doctors I saw had no answers for my weight loss, low white blood cell count, iron deficiency, lack of energy and many other persistent health issues.
