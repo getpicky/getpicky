@@ -11,13 +11,13 @@ Early on I was labeled _Picky_ by simply refusing to eat certain foods that made
 In my early 20's I became very ill. The many doctors I saw had no answers for my weight loss, low white blood cell count, iron deficiency, lack of energy and many other persistent health issues.
 
 
-I started to connect the dots about my illness and my picky eating years later when I was diagnosed with an  autoimmune disorder called Celiac disease. After the diagnosis I started the only known course of treatment, a strict, life-long gluten-free diet. And at that time, being gluten-free was rather obscure so I would have to get picky about everything I ate.
+I started to connect the dots about my illness and my picky eating years later when I was diagnosed with an  autoimmune disorder called Celiac disease. After the diagnosis I started the only known course of treatment, a strict, life-long gluten-free diet. But at that time, going gluten-free was rather obscure so I would have to get picky about everything I ate.
 
 
-So it seems I still can't escape my "picky" label. But hey, maybe being picky is a good thing because it has enabled me to regain my strength and get back on track to a healthy life. For me, being picky is about about listening to my body and knowing what I need to thrive.
+So it seems I still can't escape my "picky" label. But hey, maybe being picky is a good thing because it has enabled me to regain my strength and get back on track to a healthy life. For me, being picky is about listening to my body and knowing what I need to thrive.
 
 
-I believe there's a real need for tools that help people find things they can eat safely. I created this site to keep track of restaurants (check out the [GF Map](http://getpicky.co/map/)) and [recipes](http://getpicky.co/recipes/) in the hope that it's useful to others who are similarly picky. Please send me [a note](http://getpicky.co/contact/) if you have ideas for recipes or would like to collaborate.
+I created this site to keep track of restaurants (check out the [GF Map](http://getpicky.co/map/)) and [recipes](http://getpicky.co/recipes/) in the hope that it's useful to others who are similarly picky. Please send me [a note](http://getpicky.co/contact/) if you have ideas for recipes or would like to collaborate.
 
 
 Thanks for stopping by!
