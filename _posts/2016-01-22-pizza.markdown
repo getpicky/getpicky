@@ -44,11 +44,13 @@ I've adapted a couple recipes to create a crust that was a little heartier and m
 
 #### Directions
 
-Chop cauliflower and place into a food processor a little bit at a time. Move the "riced" cauliflower which should now be the consistency on quinoa onto a clean kitchen towel. Over the sink, ring out the extra water from your cauliflower and place into large mixing bowl. Add garbanzo bean flour and mix. Add in garlic, oregano, salt, nutmeg and 2 eggs beaten. Mix ingredients together with freshly grated parmesan cheese.
+1. Place chopped cauliflower into a food processor and pulse until it's the texture of rice. Move the "riced" cauliflower onto a clean kitchen towel. Over the sink, use the kitchen towel to ring out the extra water from your cauliflower. Remove the cauliflower from the towel and place into a large mixing bowl.
 
-Place mixture onto an oiled cookie sheet and flatten to resemble a pizza crust (about 1/4" deep). Brush the crust with a bit of olive oil. Bake for about 25 minutes at 300º or until edges become slightly brown and crisp.
+2. Add garbanzo bean flour and mix. Add in garlic, oregano, salt, nutmeg and 2 eggs beaten. Mix ingredients together with freshly grated parmesan cheese.
 
-Remove from the oven and add toppings. Return to oven for another 15 minutes at 425º so the toppings become braised. Keep an eye on your pizza so it doesn't burn. Garnish with fresh basil and bit more cheese. Enjoy!
+3. Place mixture onto an oiled cookie sheet and flatten to resemble a pizza crust (about 1/4" deep). Brush the crust with a bit of olive oil. Bake for about 25 minutes at 300º or until edges become slightly brown and crisp.
+
+3. Remove from the oven and add toppings. Return to oven for another 15 minutes at 425º so the toppings become braised. Keep an eye on your pizza so it doesn't burn. Garnish with fresh basil and bit more cheese. Enjoy!
 
  <div class="row">
  	<img class="img-thumbnail" src="{{ site.baseurl }}/img/posts/DSCF2822_crop.jpg" alt ="Stuffing"  style= "width: 100%"/>
