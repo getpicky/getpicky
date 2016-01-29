@@ -6,13 +6,13 @@ date: 2016-01-26 12:00:00
 author: "Picky Laurel"
 header-img: "img/posts/DSCF2961.jpg"
 tags:
- - Entrée
+ - baking
 recipe_type: "Gluten-free & Vegetarian"
 servings: 4
 cook_time: 40 mins
 sidebar_image: "DSCF2955_crop.jpg"
 ---
-Another easy recipe for your next adventure! Wrap in parchment paper and throw in your bag for a quick snack between meals. These bars make a well-rounded breakfast when camping/backpacking. 
+Another easy recipe for your next adventure! Wrap in parchment paper and throw in your bag for a quick snack between meals. These bars make a well-rounded breakfast when camping/backpacking.
 
 ### Oat Bars
 
