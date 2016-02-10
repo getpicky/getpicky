@@ -10,7 +10,7 @@ tags:
 recipe_type: "Gluten-free"
 servings: 4
 cook_time: 45 mins
-sidebar_image: "img/posts/scone.jpg"
+sidebar_image: "img/posts/scone2.jpg"
 ---
  The recipe has no butter –gasp– a scone made without butter is not a scone! We ran out so I had to use cold coconut oil. Since the oil has a low melting point of 76º it's very easy to cut the hardened oil into the dry flour with your hands. The more you work with the oil the softer it becomes. The sharp flavors of lemon and buttermilk are a delicious combination and the coconut oil makes for a perfectly light and crumbly texture!
 
