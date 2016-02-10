@@ -22,7 +22,7 @@ sidebar_image: "scone2.jpg"
 - 1/2 cup bob’s brown rice flour
 - 1/2 cup coconut flour
 - 3 Tbs white sugar
-- 2 1/4 tsp baking powder
+- 2 &frac14; tsp baking powder
 - 1/4 tsp salt
 - 1/2 tsp tapioca flour
 - 3/4 cup coconut oil (cold)
