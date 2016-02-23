@@ -2,7 +2,7 @@
 layout: recipe
 title: "Banana Bread"
 subtitle: "A sweet quick bread with a sugar crusted topping"
-date: 2016-02-10 12:00:00
+date: 2016-02-23 12:00:00
 author: "Picky Laurel"
 header-img: "img/posts/DSCF3491.jpg"
 tags:
