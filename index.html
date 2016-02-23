@@ -6,7 +6,7 @@ description: "Gluten-free fare for your discerning palate."
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <img class="post-thumbnail" src="{{post.header-img | prepend: site.baseurl }}" />
+        <img class="post-thumbnail" src="{{site.baseurl}}/{{post.header-img}}" />
         <h2 class="post-title">{{ post.title }}</h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
