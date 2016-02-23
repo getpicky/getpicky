@@ -10,7 +10,7 @@ tags:
 recipe_type: "Gluten-free"
 servings: 8
 cook_time: 1 hour
-sidebar_image: "posts/DSCF3489_sq.jpg"
+sidebar_image: "DSCF3489_sq.jpg"
 ---
  Happy Banana Bread day! In celebration of this fine "holiday", I'm posting here my favorite gluten free banana bread recipe. Give it a try, I think you'll love it!
 
